@@ -1,9 +1,10 @@
-# kblib_markdown
+### kblib_markdown
 
 ## KBLib Markdown ##
 
 Biblioteca desenvolvida para validar links de textos em formato md (markdown).
 
-Instação:
+## Installation
 
 > npm install -g kblib-markdown
+
