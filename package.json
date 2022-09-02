@@ -1,6 +1,6 @@
 {
   "name": "kblib-markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lib para extrair padrões de link de arquivos markdown/md",
   "keywords": [
     "markdown",
@@ -24,7 +24,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kaiquebondezan/kblib_markdown"
-    
   },
   "homepage": "https://github.com/kaiquebondezan/kblib_markdown",
   "dependencies": {
