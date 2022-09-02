@@ -2,4 +2,4 @@
 
 ## KBLib Markdown ##
 
-Biblioteca desenvolvida validar links de textos em formato md (markdown).
+Biblioteca desenvolvida para validar links de textos em formato md (markdown).
