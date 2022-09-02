@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alura-cursos/2299-lib-markdown.git"
+    "url": "git+https://github.com/kaiquebondezan/lib_markdown"
   },
   "author": "Juliana Amoasei",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alura-cursos/2299-lib-markdown/issues"
+    "url": "https://github.com/kaiquebondezan/lib_markdown"
   },
-  "homepage": "https://github.com/alura-cursos/2299-lib-markdown#readme",
+  "homepage": "https://github.com/kaiquebondezan/lib_markdown",
   "dependencies": {
     "chalk": "^4.1.2",
     "node-fetch": "^2.6.1"
