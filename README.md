@@ -8,5 +8,6 @@ Library developed to validate text links in md format (markdown).
 
 ## Installation
 
-> npm install -g kblib-markdown
-
+```sh
+ npm install -g kblib-markdown
+```
